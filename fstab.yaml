@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1T0URV3DnsVAPudbojNcxxJxeXEABqyLv"
+    url: "https://author-p124056-e1228254.adobeaemcloud.com/bin/franklin.delivery/fsaeli/aem-edge-getting-started/main"
     type: "markup"
     suffix: ".html"
